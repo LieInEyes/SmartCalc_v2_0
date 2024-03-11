@@ -1,0 +1,4 @@
+/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CMakeFiles/SmartCalc_v2_0.dir
+/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CMakeFiles/SmartCalc_v2_0_autogen.dir

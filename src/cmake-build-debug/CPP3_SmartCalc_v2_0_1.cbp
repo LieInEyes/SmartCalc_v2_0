@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPP3_SmartCalc_v2_0_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5PrintSupport\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP3_SmartCalc_v2_0_1">
+				<Option output="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_PRINTSUPPORT_LIB"/>
+					<Add directory="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/include"/>
+					<Add directory="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP3_SmartCalc_v2_0_1"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP3_SmartCalc_v2_0_1/fast">
+				<Option output="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_PRINTSUPPORT_LIB"/>
+					<Add directory="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/include"/>
+					<Add directory="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP3_SmartCalc_v2_0_1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP3_SmartCalc_v2_0_1_autogen">
+				<Option working_dir="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP3_SmartCalc_v2_0_1_autogen"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/include/src/frontend/credit_calculator/ui_creditcalc.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/include/src/frontend/deposit_calculator/ui_depositcalc.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/include/src/frontend/graph/ui_model_graph.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/include/src/frontend/main_window/ui_view.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/include/src/frontend/window_input_x/ui_randomx.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/mocs_compilation.cpp">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/backend/back/model_calculator.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/backend/back/model_calculator.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/backend/back/modify_input.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/backend/back/modify_input.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/backend/back/reverse_polish_notation.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/backend/back/reverse_polish_notation.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/backend/validator/valid_user_input.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/backend/validator/valid_user_input.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/controller/controller.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/controller/controller.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/credit_calculator/creditcalc.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/credit_calculator/creditcalc.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/credit_calculator/creditcalc.ui">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/deposit_calculator/depositcalc.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/deposit_calculator/depositcalc.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/deposit_calculator/depositcalc.ui">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/graph/model_graph.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/graph/model_graph.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/graph/model_graph.ui">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/main_window/view.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/main_window/view.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/main_window/view.ui">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/window_input_x/randomx.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/window_input_x/randomx.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/frontend/window_input_x/randomx.ui">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/main/main.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/qcustomplot.cc">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/src/qcustomplot.h">
+			<Option target="CPP3_SmartCalc_v2_0_1"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5PrintSupport/Qt5PrintSupportConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5PrintSupport\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5PrintSupport/Qt5PrintSupportConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5PrintSupport\"/>
+		</Unit>
+		<Unit filename="/media/lieineyes/AC00143F00141346/school_21/finish/CPlusPlus/SmartCalc_v2.0/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5PrintSupport/Qt5PrintSupport_QCupsPrinterSupportPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5PrintSupport\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

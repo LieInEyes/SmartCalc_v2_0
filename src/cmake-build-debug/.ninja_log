@@ -1,0 +1,19 @@
+# ninja log v5
+3	933	1691000380999367000	CPP3_SmartCalc_v2_0_1_autogen/timestamp	ec6c3fb061bfb7f6
+3	933	1691000380999367000	CPP3_SmartCalc_v2_0_1_autogen/mocs_compilation.cpp	ec6c3fb061bfb7f6
+3	933	1691000380999367000	/media/lieineyes/AC00143F00141346/school_21/in_work/CPP3_SmartCalc_v2.0-1/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/timestamp	ec6c3fb061bfb7f6
+3	933	1691000380999367000	/media/lieineyes/AC00143F00141346/school_21/in_work/CPP3_SmartCalc_v2.0-1/cmake-build-debug/CPP3_SmartCalc_v2_0_1_autogen/mocs_compilation.cpp	ec6c3fb061bfb7f6
+934	1522	1691000381597609200	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/valid_user_input.cc.o	482f2e121115e703
+935	1888	1691000381963670200	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/reverse_polish_notation.cc.o	7dff739cfeafda77
+934	2012	1691000382086700200	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/model_calculator.cc.o	356708c1d01cb043
+1536	2470	1691000382545278000	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/modify_input.cc.o	aead5ebb7ccbb5dc
+2014	5976	1691000386047583400	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/creditcalc.cc.o	3f7cc8ec67f81cfc
+2471	6779	1691000386851693600	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/depositcalc.cc.o	8c8425b2e1eb4b63
+5990	9123	1691000389194717700	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/randomx.cc.o	a4657aae676d8c37
+935	9828	1691000389898535800	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/controller.cc.o	132eec3603294a6
+934	10517	1691000390591958500	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/main.cc.o	ddf30388e452d1f0
+1894	11332	1691000391405731100	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/view.cc.o	bb955c4ee9325318
+934	12600	1691000392665971500	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/CPP3_SmartCalc_v2_0_1_autogen/mocs_compilation.cpp.o	b934bc863d2ce7c8
+6781	14227	1691000394301269700	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/model_graph.cc.o	766781bf049d0b59
+9125	24772	1691000404826283300	CMakeFiles/CPP3_SmartCalc_v2_0_1.dir/src/qcustomplot.cc.o	cfe3456090c7de42
+24772	26056	1691000406124923600	CPP3_SmartCalc_v2_0_1	69e7f4c0ddb80b43
